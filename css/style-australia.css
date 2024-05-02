@@ -33,7 +33,7 @@ html {
 .cookie-png > img {
     margin: 10px 0px 0px 0px;
     text-align: center;
-    width: 200px;
+    width: 150px;
     height: auto;
 }
 
@@ -65,7 +65,7 @@ html {
 }
 
 .cookie-double-btn button {
-	font-size: 16px;
+	font-size: 14px;
 	padding: 8px 34px;
 	border-radius: 100px;
 	font-weight: 500;
@@ -134,8 +134,6 @@ button.btn-1:hover {
 
 	.cookie-png > img {
         margin: 0px;
-        width: 180px;
-        height: auto;
     }
 
 	.cookie-overlay{
